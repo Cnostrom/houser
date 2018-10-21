@@ -1,0 +1,67 @@
+.Wizard {
+  justify-content: flex-start;
+  background-color: #e5f4ec;
+  width: 60vw;
+  height: 100vh;
+  margin-left: 300px;
+}
+
+.listing {
+  
+}
+
+.cancel {
+background-color: #fec2c2;
+margin-left: 550px;
+
+}
+
+.inputs {
+
+}
+
+p {
+margin-left:40px;
+
+
+}
+
+
+.propertyName {
+  margin-left: 40px;
+  border: solid #afd4c0 2px;
+
+
+}
+
+.address {
+  margin-left: 40px;
+  width: 400px;
+  border: solid #afd4c0 2px;
+
+}
+
+.city {
+  margin-left: 40px;
+  border: solid #afd4c0 2px;
+
+}
+
+.state {
+  margin-left: 40px;
+  border: solid #afd4c0 2px;
+
+}
+
+.zip {
+  margin-left: 40px;
+  border: solid #afd4c0 2px;
+
+}
+
+.complete {
+  height: 30px;
+  margin-left: 550px;
+background-color: #8aea92;
+
+}

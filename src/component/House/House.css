@@ -1,0 +1,14 @@
+.House {
+  
+  
+  width: 57vw;
+  margin-left: 16px;
+}
+
+.displayBox {
+border: solid black 1px;
+margin-top: 2%; 
+background-color: #dedede;
+
+
+}
